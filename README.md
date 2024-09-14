@@ -34,7 +34,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | Bild                                                                                                                                              | Fahrzeugname            | Listenpreis | Daten |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:-----------:|-------|
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Benefactor_Schlagen_GT.png" width="256"> </p>  | Benefactor Schlagen GT  |             |       |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Bravado_Bufallo.png" width="256"> </p>         | Bravado Bufallo         |             |       |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Bravado_Bufallo.png" width="256"> </p>         | Bravado Buffalo         |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Coil_Raiden.png" width="256"> </p>             | Coil Raiden             |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Dewbauchee_Seven_70.png" width="256"> </p>     | Dewbauchee Seven-70     |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Enus_Paragon_R_Roadster.png" width="256"> </p> | Enus Paragon R Roadster |             |       |
