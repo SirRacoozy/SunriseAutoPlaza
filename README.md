@@ -49,7 +49,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Grotti_Itali_GTO.png" width="256"> </p>        | Grotti Itali GTO        |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Obey_10F.png" width="256"> </p>                | Obey 10F                |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Obey_9F.png" width="256"> </p>                 | Obey 9F                 |             |       |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Obey_9F_Cabrio.png" width="256"> </p>          | Obey 9F Cabrio          |             |       |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Obey_9F_Carbio.png" width="256"> </p>          | Obey 9F Cabrio          |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Pfister_Comet_S2.png" width="256"> </p>        | Pfister Comet S2        |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Pfister_Comet_S2_Cabrio.png" width="256"> </p> | Pfister Comet S2 Cabrio |             |       |
 
