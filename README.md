@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sunrise_Auto_Plaza.png" width="256">
-</p>
-
-<p align="center">
-<img src="https://gta.fandom.com/wiki/Schlagen_GT?file=SchlagenGT-GTAO-front.png">
+  <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sunrise_Auto_Plaza.jpeg" width="256">
 </p>
 
 Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
