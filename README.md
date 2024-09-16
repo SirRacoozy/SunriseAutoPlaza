@@ -5,10 +5,10 @@
 Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 
 # Kontakt
-|          |                |
-|----------|----------------|
+|          |                            |
+|----------|----------------------------|
 | Standort | PDM Los Santos (PLZ: 7175) |
-| Telefon  |                |
+| Telefon  | (520) 831 - 4806           |
 
 # Folgende Fahrzeuge haben wir im Angebot für Sie
 
