@@ -50,7 +50,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Coil_Raiden.png" width="256"> </p>             | Coil Raiden             |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Dewbauchee_Seven_70.png" width="256"> </p>     | Dewbauchee Seven-70     |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Enus_Paragon_R_Roadster.png" width="256"> </p> | Enus Paragon R Roadster |             |       |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Enus_Windsor_Roadster.png" width="256"> </p>   | Enus Windsor Roadster   |             |       |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Enus_Windsor_Roadster.png" width="256"> </p>   | Enus Windsor Roadster (derzeit nicht verfügbar)   |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Grotti_Bestia_GTS.png" width="256"> </p>       | Grotti Bestia GTS       |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Grotti_Itali_GTO.png" width="256"> </p>        | Grotti Itali GTO        |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sport/Obey_10F.png" width="256"> </p>                | Obey 10F                |             |       |
@@ -63,7 +63,6 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | Bild                                                                                                                                           | Fahrzeugname          | Listenpreis | Daten |
 |------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|:-----------:|-------|
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Vans/Brute_Camper.png" width="256"> </p>          | Brute Camper          |             |       |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Vans/Bravado_Rumpo_Trail.png" width="256"> </p>   | Bravado Rumpo Trail   |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Vans/Bürgerfahrzeug_Surfer.png" width="256"> </p> | Bürgerfahrzeug Surfer |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Vans/Zirconium_Journey.png" width="256"> </p>     | Zirconium Journey     |             |       |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Vans/Zirconium_Journey_II.png" width="256"> </p>  | Zirconium Journey II  |             |       |
