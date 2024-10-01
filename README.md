@@ -16,7 +16,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 - Bestellung
 - Finanzierung (je nach individuellem Fall)
 
-# Folgende Fahrzeuge haben wir im Angebot für Sie (Fahrzeuge und Daten werden noch ergänzt)
+# Folgende Fahrzeuge haben wir im Angebot für Sie
 
 ## Sedans
 | Bild                                                                                                                                                   | Fahrzeugname                 | Listenpreis |
