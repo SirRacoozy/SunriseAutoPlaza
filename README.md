@@ -112,7 +112,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Ocelot_Locust.png" width="256"> </p>            | Ocelot Locust            |  $200.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Ocelot_Virtue.png" width="256"> </p>            | Ocelot Virtue            |  $550.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Ocelot_XA_21.png" width="256"> </p>             | Ocelot XA 21             |  $850.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Överflöd_Autrach.png" width="256"> </p>         | Överflöd Autrach         | $1.300.000  |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Överflöd_Autarch.png" width="256"> </p>         | Överflöd Autarch         | $1.300.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Överflöd_Entity.png" width="256"> </p>          | Överflöd Entity          | $1.600.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Överflöd_Entity_MT.png" width="256"> </p>       | Överflöd Entity MT       | $1.700.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Överflöd_Entity_XF.png" width="256"> </p>       | Överflöd Entity XF       | $1.100.000  |
