@@ -48,8 +48,8 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Dilettante.png" width="256"> </p>             | Karin Dilettante             |   $45.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Intruder.png" width="256"> </p>               | Karin Intruder               |   $60.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Lampadati_Michelli_GT.png" width="256"> </p>        | Lampadati Michelli GT        |   $52.000   |
-| Maibatsu_Vincent                                                                                                                                       | Maibatsu Vincent             |   $95.000   |
-| Maibatsu_Vincent_Touring                                                                                                                               | Maibatsu Vincent Touring     |   $80.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Maibatsu_Vincent.png" width="256"> </p>             | Maibatsu Vincent             |   $95.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Maibatsu_Vincent.png" width="256"> </p>             | Maibatsu Vincent Touring     |   $80.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Maxwell_Asbo.png" width="256"> </p>                 | Maxwell Asbo                 |   $40.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Rune_Cheburek.png" width="256"> </p>                | Rune Cheburek                |   $50.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vapid_Clique.png" width="256"> </p>                 | Vapid Clique                 |   $80.000   |
@@ -86,7 +86,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 ## Super Sport
 | Bild                                                                                                                                                    | Fahrzeugname             | Listenpreis |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|:-----------:|
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Annis_RE.png" width="256"> </p>                 | Annis RE-7B              |  $650.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Annis_RE-7B.png" width="256"> </p>                 | Annis RE-7B              |  $650.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Benefactor_Krieger.png" width="256"> </p>       | Benefactor Krieger       | $1.280.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Benefactor_LM87.png" width="256"> </p>          | Benefactor LM87          |  $650.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Bravado_Banshee_900R.png" width="256"> </p>     | Bravado Banshee 900R     |  $180.000   |
