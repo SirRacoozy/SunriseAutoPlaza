@@ -148,7 +148,7 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Truffade_Nero_SS.png" width="256"> </p>         | Truffade Nero SS         | $2.500.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Truffade_Nero_SS_Mk2.png" width="256"> </p>     | Truffade Nero SS Mk2     | $2.750.000  |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Truffade_Thrax.png" width="256"> </p>           | Truffade Thrax           |  $950.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Übermacht_SC1.png" width="256"> </p>            | Übermacht SC1            |  $150.000   |
+|           | Übermacht SC1            |  $150.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Vapid_Bullet.png" width="256"> </p>             | Vapid Bullet             |  $180.000   |
 | <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/SuperSport/Vapid_FMJ.png" width="256"> </p>                | Vapid FMJ                |  $770.000   |
 
