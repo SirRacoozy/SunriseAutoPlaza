@@ -21,43 +21,43 @@ Willkommen bei Sunrise Auto Plaza - Wo Ihr Traumauto auf sie wartet!
 ## Sedans
 | Bild                                                                                                                                                   | Fahrzeugname                 | Listenpreis |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|:-----------:|
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Anis_Remus.png" width="256"> </p>                   | Anis Remus                   |  $100.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Albany_Brigham.png" width="256"> </p>               | Albany Brigham               |   $70.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Albany_Emperor.png" width="256"> </p>               | Albany Emperor               |   $40.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Albany_Primo.png" width="256"> </p>                 | Albany Primo                 |   $57.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Albany_Primo_Custom.png" width="256"> </p>          | Albany Primo Custom          |   $79.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Albany_Washington.png" width="256"> </p>            | Albany Washington            |   $57.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Benefactor_Glendale.png" width="256"> </p>          | Benefactor Glendale          |   $58.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Benefactor_Glendale_Custom.png" width="256"> </p>   | Benefactor Glendale Custom   |   $98.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Benefactor_Schafter.png" width="256"> </p>          | Benefactor Schafter          |   $70.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/BF_Club.png" width="256"> </p>                      | BF Club                      |   $56.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Cheval_Fugitive.png" width="256"> </p>              | Cheval Fugitive              |   $53.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Circonium_Stratum_C.png" width="256"> </p>          | Circonium Stratum C          |   $90.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Declasse_Asea.png" width="256"> </p>                | Declasse Asea                |   $40.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Declasse_Premier.png" width="256"> </p>             | Declasse Premier             |   $50.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Declasse_Tahoma_Coupe.png" width="256"> </p>        | Declasse Tahoma Coupe        |   $79.500   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Dinka_RT3000.png" width="256"> </p>                 | Dinka RT3000                 |  $105.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Dundready_Regina.png" width="256"> </p>             | Dundready Regina             |   $45.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Emperorr_Habanero.png" width="256"> </p>            | Emperorr Habanero            |   $43.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Enus_Cognoscenti.png" width="256"> </p>             | Enus Cognoscenti             |  $110.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Enus_Super_Diamond.png" width="256"> </p>           | Enus Super Diamond           |  $166.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Enus_Super_Diamond_Exclusive.png" width="256"> </p> | Enus Super Diamond Exclusive |  $350.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Fhantom_FR36.png" width="256"> </p>                 | Fhantom FR36                 |   $42.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Karin_Asterope.png" width="256"> </p>               | Karin Asterope               |   $45.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Karin_Asterope_GZ.png" width="256"> </p>            | Karin Asterope GZ            |   $65.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Karin_Dilettante.png" width="256"> </p>             | Karin Dilettante             |   $45.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Karin_Intruder.png" width="256"> </p>               | Karin Intruder               |   $60.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Lampadati_Michelli_GT.png" width="256"> </p>        | Lampadati Michelli GT        |   $52.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Anis_Remus.png" width="256"> </p>                   | Anis Remus                   |  $100.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Albany_Brigham.png" width="256"> </p>               | Albany Brigham               |   $70.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Albany_Emperor.png" width="256"> </p>               | Albany Emperor               |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Albany_Primo.png" width="256"> </p>                 | Albany Primo                 |   $57.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Albany_Primo_Custom.png" width="256"> </p>          | Albany Primo Custom          |   $79.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Albany_Washington.png" width="256"> </p>            | Albany Washington            |   $57.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Benefactor_Glendale.png" width="256"> </p>          | Benefactor Glendale          |   $58.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Benefactor_Glendale_Custom.png" width="256"> </p>   | Benefactor Glendale Custom   |   $98.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Benefactor_Schafter.png" width="256"> </p>          | Benefactor Schafter          |   $70.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/BF_Club.png" width="256"> </p>                      | BF Club                      |   $56.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Cheval_Fugitive.png" width="256"> </p>              | Cheval Fugitive              |   $53.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Circonium_Stratum_C.png" width="256"> </p>          | Circonium Stratum C          |   $90.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Declasse_Asea.png" width="256"> </p>                | Declasse Asea                |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Declasse_Premier.png" width="256"> </p>             | Declasse Premier             |   $50.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Declasse_Tahoma_Coupe.png" width="256"> </p>        | Declasse Tahoma Coupe        |   $79.500   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Dinka_RT3000.png" width="256"> </p>                 | Dinka RT3000                 |  $105.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Dundready_Regina.png" width="256"> </p>             | Dundready Regina             |   $45.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Emperorr_Habanero.png" width="256"> </p>            | Emperorr Habanero            |   $43.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Enus_Cognoscenti.png" width="256"> </p>             | Enus Cognoscenti             |  $110.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Enus_Super_Diamond.png" width="256"> </p>           | Enus Super Diamond           |  $166.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Enus_Super_Diamond_Exclusive.png" width="256"> </p> | Enus Super Diamond Exclusive |  $350.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Fhantom_FR36.png" width="256"> </p>                 | Fhantom FR36                 |   $42.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Asterope.png" width="256"> </p>               | Karin Asterope               |   $45.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Asterope_GZ.png" width="256"> </p>            | Karin Asterope GZ            |   $65.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Dilettante.png" width="256"> </p>             | Karin Dilettante             |   $45.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Karin_Intruder.png" width="256"> </p>               | Karin Intruder               |   $60.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Lampadati_Michelli_GT.png" width="256"> </p>        | Lampadati Michelli GT        |   $52.000   |
 | Maibatsu_Vincent                                                                                                                                       | Maibatsu Vincent             |   $95.000   |
 | Maibatsu_Vincent_Touring                                                                                                                               | Maibatsu Vincent Touring     |   $80.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Maxwell_Asbo.png" width="256"> </p>                 | Maxwell Asbo                 |   $40.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Rune_Cheburek.png" width="256"> </p>                | Rune Cheburek                |   $50.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vapid_Clique.png" width="256"> </p>                 | Vapid Clique                 |   $80.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vapid_Clique_Wagon.png" width="256"> </p>           | Vapid Clique Wagon           |   $95.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vapid_Peyote.png" width="256"> </p>                 | Vapid Peyote                 |   $40.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vapid_Retinue.png" width="256"> </p>                | Vapid Retinue                |   $40.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vulcar_Nebula_Turbo.png" width="256"> </p>          | Vulcar Nebula Turbo          |   $80.000   |
-| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedan/Vulcar_Warrener.png" width="256"> </p>              | Vulcar Warrener              |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Maxwell_Asbo.png" width="256"> </p>                 | Maxwell Asbo                 |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Rune_Cheburek.png" width="256"> </p>                | Rune Cheburek                |   $50.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vapid_Clique.png" width="256"> </p>                 | Vapid Clique                 |   $80.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vapid_Clique_Wagon.png" width="256"> </p>           | Vapid Clique Wagon           |   $95.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vapid_Peyote.png" width="256"> </p>                 | Vapid Peyote                 |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vapid_Retinue.png" width="256"> </p>                | Vapid Retinue                |   $40.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vulcar_Nebula_Turbo.png" width="256"> </p>          | Vulcar Nebula Turbo          |   $80.000   |
+| <p align="center"> <img src="https://github.com/SirRacoozy/SunriseAutoPlaza/blob/main/images/Sedans/Vulcar_Warrener.png" width="256"> </p>              | Vulcar Warrener              |   $40.000   |
 
 ## SUV
 
